@@ -1,0 +1,1 @@
+Contains info about shell varaible expansions.
