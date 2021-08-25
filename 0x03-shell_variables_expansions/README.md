@@ -1,1 +1,1 @@
-Contains info about shell varaible expansions.
+# Basics about shell variable and expanisions
