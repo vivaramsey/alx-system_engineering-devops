@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Script to display lin containing the bash word
+# shellcheck disable=SC2009
